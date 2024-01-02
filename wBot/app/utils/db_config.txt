@@ -1,0 +1,12 @@
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    phone_number VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE user_responses (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT NOT NULL,
+    response TEXT NOT NULL,
+    FOREIGN KEY (user_id) REFERENCES users(id)
+);
+
