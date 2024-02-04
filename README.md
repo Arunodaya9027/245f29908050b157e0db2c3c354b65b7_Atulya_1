@@ -1,8 +1,9 @@
 # Rajasthan Police Hackathon 1.0
 
 Team Name: Atulya
-Team Member- Ishan Berry (Team Lead ) contributed as backend developer , Atharv Bhardwaj contributed as frontend developer , arunodiya pratap singh contributed as frontend developer and
-adarsh nema as frontend developer 
+
+Team Member- Ishan Berry (Team Lead ) contributed as a backend developer, Atharv Bhardwaj contributed as a frontend developer, Arunodiya Pratap Singh contributed as a frontend developer and
+Adarsh Nema as a frontend developer 
 
 Team Regestration No.: RJPOLICE_HACK_1224
 
